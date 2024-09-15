@@ -30,7 +30,6 @@ O objetivo deste trabalho é realizar o mapeamento objeto-relacional utilizando 
 
 ## Documentação
 
-### Introdução
 
 O projeto visa criar um modelo de dados utilizando SQLAlchemy para realizar operações básicas de CRUD em um banco de dados relacional. O modelo será composto por quatro entidades principais e suas respectivas operações de inserção, consulta, atualização e exclusão de registros.
 
