@@ -72,8 +72,3 @@ O projeto visa criar um modelo de dados utilizando SQLAlchemy para realizar oper
      - `estado_empresa`: Estado da empresa (String)
      - `cep_empresa`: CEP da empresa (String)
 
-### Modelo Conceitual
-
-![Modelo Conceitual](path_to_your_diagram.png)
-
-### Implementação em Python
