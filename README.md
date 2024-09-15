@@ -1,0 +1,1 @@
+O objetivo deste trabalho é realizar o mapeamento objeto-relacional utilizando o SQLAlchemy. O aluno irá criar um pequeno projeto onde desenvolverá um modelo de dados, configurará uma conexão com um banco de dados, e implementará operações básicas de CRUD (Create, Read, Update, Delete) utilizando o SQLAlchemy.
